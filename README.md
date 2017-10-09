@@ -7,7 +7,7 @@ Generative adversarial networks is a powerful generative model and recently many
 
 ![alt text](ResultSamples/result.png)
 
-Left is result using gradient channel and right is without. We can see that the one with gradient channel is more in line with the originally style.
+Left is result using gradient channel and right is without. We can see that the one with gradient channel is more in line with the original style.
 
 ## Inputing Data
 Create the following directories from the root:
